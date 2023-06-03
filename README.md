@@ -43,3 +43,7 @@ Write a Python Script that:
 * Merges these two Python dictionaries into 1 new dictionary.
 * Sums up all the values in the new dictionary and print it out
 * Prints the max and minimum values of the dictionary
+
+**Solution:**
+
+`working-with-dictionaries.py`
