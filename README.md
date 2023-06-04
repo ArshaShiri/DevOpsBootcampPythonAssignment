@@ -11,7 +11,7 @@ Using the following list:
 
 **Solution:**
 
-`working-with-lists.py`
+`working_with_lists.py`
 
 ## EXERCISE 2: Working with Dictionaries
 Using the following dictionary:
@@ -46,7 +46,7 @@ Write a Python Script that:
 
 **Solution:**
 
-`working-with-dictionaries.py`
+`working_with_dictionaries.py`
 
 ## EXERCISE 3: Working with List of Dictionaries
 Using a list of 2 dictionaries:
@@ -78,3 +78,7 @@ Write a Python Program that:
 
 * Prints out - the name, job and city of each employee using a loop. The program must work for any number of employees in the list, not just 2.
 * Prints the country of the second employee in the list by accessing it directly without the loop.
+
+**Solution:**
+
+`working_with_list_of_dictionaries.py`
