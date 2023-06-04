@@ -103,3 +103,7 @@ Write a simple calculator program that:
 * Keeps track of how many calculations the user has taken, and when the user exits the calculator program, prints out the number of calculations the user did
 
 **Concepts covered:** working with different data types, conditionals, type conversion, user input, user input validation
+
+**Solution:**
+
+`calculator.py`
