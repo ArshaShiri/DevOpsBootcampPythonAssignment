@@ -82,3 +82,9 @@ Write a Python Program that:
 **Solution:**
 
 `working_with_list_of_dictionaries.py`
+
+## EXERCISE 4: Working with Functions
+* Write a function that accepts a list of dictionaries with employee age (see example list from the Exercise 3) and prints out the name and age of the youngest employee.
+* Write a function that accepts a string and calculates the number of upper case letters and lower case letters.
+* Write a function that prints the even numbers from a provided list.
+* For cleaner code, declare these functions in its own helper Module and use them in the main.py file
