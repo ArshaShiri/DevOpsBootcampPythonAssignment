@@ -120,3 +120,7 @@ Write a program that:
 Hint: Use the built-in random module to generate random numbers https://docs.python.org/3.3/library/random.html
 
 **Concepts covered:** Built-In Module, User Input, Comparison Operator, While loop
+
+**Solution:**
+
+`guessing_game.py`
