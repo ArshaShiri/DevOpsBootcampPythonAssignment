@@ -90,3 +90,16 @@ Write a Python Program that:
 * For cleaner code, declare these functions in its own helper Module and use them in the main.py file
 
 **Solution:**
+
+`working_with_functions.py`
+
+## EXERCISE 5: Python Program 'Calculator'
+Write a simple calculator program that:
+
+* Takes user input of 2 numbers and operation to execute
+* Handles following operations: plus, minus, multiply, divide
+* Does proper user validation and give feedback: only numbers allowed
+* Keeps the Calculator program running until the user types “exit”
+* Keeps track of how many calculations the user has taken, and when the user exits the calculator program, prints out the number of calculations the user did
+
+**Concepts covered:** working with different data types, conditionals, type conversion, user input, user input validation
