@@ -88,3 +88,5 @@ Write a Python Program that:
 * Write a function that accepts a string and calculates the number of upper case letters and lower case letters.
 * Write a function that prints the even numbers from a provided list.
 * For cleaner code, declare these functions in its own helper Module and use them in the main.py file
+
+**Solution:**
