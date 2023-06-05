@@ -189,3 +189,7 @@ As both students and professors have a first name, last name and age, you think 
 * and following method: "print_name", which can print the full name
 * So you don't need these properties and method in the other two classes. You can easily inherit these.
 * Change Student and Professor classes to inherit "first_name", "last_name", "age" properties and "print_name" method from the Person class
+
+**Solution:**
+
+`working_with_classes_and_objects.py`
