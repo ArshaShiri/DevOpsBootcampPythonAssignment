@@ -202,3 +202,9 @@ Write a program that:
 * prints out the result as a message to the user
 
 `working_with_dates.py`
+
+## EXERCISE 9: Working with Spreadsheets
+Write a program that:
+
+* reads the provided spreadsheet file "employees.xlsx" (see Download section at the bottom) with the following information/columns: "name", "years of experience", "job title", "date of birth"
+* creates a new spreadsheet file "employees_sorted.xlsx" with following info/columns: "name", "years of experience", where the years of experience is sorted in descending order: so the employee name with the most experience in years is on top.
