@@ -219,3 +219,7 @@ Write a program that:
 * connects to GitHub API
 * gets all the public repositories for a specific GitHub user
 * prints the name & URL of every project
+
+**Solution:**
+
+`working_with_rest_apis.py`
