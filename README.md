@@ -212,3 +212,10 @@ Write a program that:
 **Solution:**
 
 `working_with_spreadsheets.py`
+
+## EXERCISE 10: Working with REST APIs
+Write a program that:
+
+* connects to GitHub API
+* gets all the public repositories for a specific GitHub user
+* prints the name & URL of every project
